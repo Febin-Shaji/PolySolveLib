@@ -9,13 +9,13 @@ polysolve.solver module
 
 .. automodule:: polysolve.solver
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Module contents
 ---------------
 
 .. automodule:: polysolve
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
